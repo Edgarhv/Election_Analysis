@@ -11,7 +11,7 @@ A Colorado Board of Elections employee requested has given you the following tas
  4. Calculate the percentage of votes each candidate won. 
  5. Determine the winner of the election based on popular vote.
     
-    ![img](Images/ezgif.gif)
+    ![img](GrouchyPoorBullfrog-mobile.gif)
 
 Source: https://gfycat.com/grouchypoorbullfrog-election-day-vote
     
