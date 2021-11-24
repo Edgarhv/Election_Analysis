@@ -80,6 +80,8 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 #### Winning Percentage: 73.8%
 -------------------------
-  
+ 
+ 
+ ![img](https://github.com/Edgarhv/Election_Analysis/blob/032fb2a6782adff97daa28deafedabcfa6f7939b/Images/results.png)
 
 
