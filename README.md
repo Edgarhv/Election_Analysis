@@ -101,3 +101,11 @@ Winning Vote Count: 272,892
 -Winner: Diana DeGette
 -Winning Vote Count: 272,892
 -Winning Percentage: 73.8%
+
+# Election Audit Summary
+  Two examples of how this script can be modified:
+  
+  * The code can be applied to any election following the structure and comments available on the code.
+  * Creating a comparative report focusing on the turnout of the counties.
+  * Calculating the number of votes received by each candidate per county.
+  * create visualizations for better understanding
